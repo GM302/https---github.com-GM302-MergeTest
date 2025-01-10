@@ -1,4 +1,4 @@
-# How to install originalghousech
+# How to install originalghousmohi
 1. Clone this repo or download as zip file
 2. Open the donwloaded folder in VS Code
 3. Authorize a Dev Hub Org
